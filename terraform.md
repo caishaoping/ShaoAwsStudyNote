@@ -1,3 +1,5 @@
+
+
 1. Some of supported secret stores and data source combos: 
 AWS Secrets Manager and the aws_secretsmanager_secret_version data source 
 AWS Systems Manager Parameter Store and the aws_ssm_parameter data source
